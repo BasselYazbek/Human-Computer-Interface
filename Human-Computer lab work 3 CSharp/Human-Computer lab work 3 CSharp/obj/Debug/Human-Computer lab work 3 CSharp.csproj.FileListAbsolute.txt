@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\Human-Computer lab work 3 CSharp\Human-Computer lab work 3 CSharp\bin\Debug\Human-Computer lab work 3 CSharp.exe.config
+C:\Users\Hp\source\repos\Human-Computer lab work 3 CSharp\Human-Computer lab work 3 CSharp\bin\Debug\Human-Computer lab work 3 CSharp.exe
+C:\Users\Hp\source\repos\Human-Computer lab work 3 CSharp\Human-Computer lab work 3 CSharp\bin\Debug\Human-Computer lab work 3 CSharp.pdb
+C:\Users\Hp\source\repos\Human-Computer lab work 3 CSharp\Human-Computer lab work 3 CSharp\obj\Debug\Human-Computer lab work 3 CSharp.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Human-Computer lab work 3 CSharp\Human-Computer lab work 3 CSharp\obj\Debug\Human_Computer_lab_work_3_CSharp.Form1.resources
+C:\Users\Hp\source\repos\Human-Computer lab work 3 CSharp\Human-Computer lab work 3 CSharp\obj\Debug\Human_Computer_lab_work_3_CSharp.Properties.Resources.resources
+C:\Users\Hp\source\repos\Human-Computer lab work 3 CSharp\Human-Computer lab work 3 CSharp\obj\Debug\Human-Computer lab work 3 CSharp.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Human-Computer lab work 3 CSharp\Human-Computer lab work 3 CSharp\obj\Debug\Human-Computer lab work 3 CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Human-Computer lab work 3 CSharp\Human-Computer lab work 3 CSharp\obj\Debug\Human-Computer lab work 3 CSharp.exe
+C:\Users\Hp\source\repos\Human-Computer lab work 3 CSharp\Human-Computer lab work 3 CSharp\obj\Debug\Human-Computer lab work 3 CSharp.pdb
+C:\Users\Hp\source\repos\Human-Computer lab work 3 CSharp\Human-Computer lab work 3 CSharp\obj\Debug\Human_Computer_lab_work_3_CSharp.Form2.resources

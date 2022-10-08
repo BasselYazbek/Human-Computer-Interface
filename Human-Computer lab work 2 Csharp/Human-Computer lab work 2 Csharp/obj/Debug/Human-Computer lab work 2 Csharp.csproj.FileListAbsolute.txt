@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\Human-Computer lab work 2 Csharp\Human-Computer lab work 2 Csharp\bin\Debug\Human-Computer lab work 2 Csharp.exe.config
+C:\Users\Hp\source\repos\Human-Computer lab work 2 Csharp\Human-Computer lab work 2 Csharp\bin\Debug\Human-Computer lab work 2 Csharp.exe
+C:\Users\Hp\source\repos\Human-Computer lab work 2 Csharp\Human-Computer lab work 2 Csharp\bin\Debug\Human-Computer lab work 2 Csharp.pdb
+C:\Users\Hp\source\repos\Human-Computer lab work 2 Csharp\Human-Computer lab work 2 Csharp\obj\Debug\Human-Computer lab work 2 Csharp.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Human-Computer lab work 2 Csharp\Human-Computer lab work 2 Csharp\obj\Debug\Human_Computer_lab_work_2_Csharp.Form1.resources
+C:\Users\Hp\source\repos\Human-Computer lab work 2 Csharp\Human-Computer lab work 2 Csharp\obj\Debug\Human_Computer_lab_work_2_Csharp.Properties.Resources.resources
+C:\Users\Hp\source\repos\Human-Computer lab work 2 Csharp\Human-Computer lab work 2 Csharp\obj\Debug\Human-Computer lab work 2 Csharp.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Human-Computer lab work 2 Csharp\Human-Computer lab work 2 Csharp\obj\Debug\Human-Computer lab work 2 Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Human-Computer lab work 2 Csharp\Human-Computer lab work 2 Csharp\obj\Debug\Human-Computer lab work 2 Csharp.exe
+C:\Users\Hp\source\repos\Human-Computer lab work 2 Csharp\Human-Computer lab work 2 Csharp\obj\Debug\Human-Computer lab work 2 Csharp.pdb
