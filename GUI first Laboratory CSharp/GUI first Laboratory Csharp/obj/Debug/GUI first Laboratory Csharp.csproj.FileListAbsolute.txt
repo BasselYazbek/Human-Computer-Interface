@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\GUI first Laboratory Csharp\GUI first Laboratory Csharp\bin\Debug\GUI first Laboratory Csharp.exe.config
+C:\Users\Hp\source\repos\GUI first Laboratory Csharp\GUI first Laboratory Csharp\bin\Debug\GUI first Laboratory Csharp.exe
+C:\Users\Hp\source\repos\GUI first Laboratory Csharp\GUI first Laboratory Csharp\bin\Debug\GUI first Laboratory Csharp.pdb
+C:\Users\Hp\source\repos\GUI first Laboratory Csharp\GUI first Laboratory Csharp\obj\Debug\GUI first Laboratory Csharp.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\GUI first Laboratory Csharp\GUI first Laboratory Csharp\obj\Debug\GUI_first_Laboratory_Csharp.Form1.resources
+C:\Users\Hp\source\repos\GUI first Laboratory Csharp\GUI first Laboratory Csharp\obj\Debug\GUI_first_Laboratory_Csharp.Properties.Resources.resources
+C:\Users\Hp\source\repos\GUI first Laboratory Csharp\GUI first Laboratory Csharp\obj\Debug\GUI first Laboratory Csharp.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\GUI first Laboratory Csharp\GUI first Laboratory Csharp\obj\Debug\GUI first Laboratory Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\GUI first Laboratory Csharp\GUI first Laboratory Csharp\obj\Debug\GUI first Laboratory Csharp.exe
+C:\Users\Hp\source\repos\GUI first Laboratory Csharp\GUI first Laboratory Csharp\obj\Debug\GUI first Laboratory Csharp.pdb
